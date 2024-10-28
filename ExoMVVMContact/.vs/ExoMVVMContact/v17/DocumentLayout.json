@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|d:\\josua\\natif\\wpf\\exomvvmcontact\\exomvvmcontact\\modelview\\addcontactviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|solutionrelative:exomvvmcontact\\modelview\\addcontactviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|d:\\josua\\natif\\wpf\\exomvvmcontact\\exomvvmcontact\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|solutionrelative:exomvvmcontact\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|d:\\josua\\natif\\wpf\\exomvvmcontact\\exomvvmcontact\\view\\addcontactwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|solutionrelative:exomvvmcontact\\view\\addcontactwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|d:\\josua\\natif\\wpf\\exomvvmcontact\\exomvvmcontact\\models\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|solutionrelative:exomvvmcontact\\models\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|d:\\josua\\natif\\wpf\\exomvvmcontact\\exomvvmcontact\\modelview\\mainwindowmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|solutionrelative:exomvvmcontact\\modelview\\mainwindowmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|d:\\josua\\natif\\wpf\\exomvvmcontact\\exomvvmcontact\\view\\addcontactwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|solutionrelative:exomvvmcontact\\view\\addcontactwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|d:\\josua\\natif\\wpf\\exomvvmcontact\\exomvvmcontact\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|solutionrelative:exomvvmcontact\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|d:\\josua\\natif\\wpf\\exomvvmcontact\\exomvvmcontact\\utils\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16005D7-8B59-43B7-9BAC-3E26BE430B64}|ExoMVVMContact\\ExoMVVMContact.csproj|solutionrelative:exomvvmcontact\\utils\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactManager.cs",
+              "DocumentMoniker": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\Models\\ContactManager.cs",
+              "RelativeDocumentMoniker": "ExoMVVMContact\\Models\\ContactManager.cs",
+              "ToolTip": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\Models\\ContactManager.cs",
+              "RelativeToolTip": "ExoMVVMContact\\Models\\ContactManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:21:24.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddContactWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\View\\AddContactWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ExoMVVMContact\\View\\AddContactWindow.xaml.cs",
+              "ToolTip": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\View\\AddContactWindow.xaml.cs",
+              "RelativeToolTip": "ExoMVVMContact\\View\\AddContactWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:17:44.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ExoMVVMContact\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ExoMVVMContact\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:17:42.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddContactViewModels.cs",
+              "DocumentMoniker": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\ModelView\\AddContactViewModels.cs",
+              "RelativeDocumentMoniker": "ExoMVVMContact\\ModelView\\AddContactViewModels.cs",
+              "ToolTip": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\ModelView\\AddContactViewModels.cs",
+              "RelativeToolTip": "ExoMVVMContact\\ModelView\\AddContactViewModels.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:47:04.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddContactWindow.xaml",
+              "DocumentMoniker": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\View\\AddContactWindow.xaml",
+              "RelativeDocumentMoniker": "ExoMVVMContact\\View\\AddContactWindow.xaml",
+              "ToolTip": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\View\\AddContactWindow.xaml",
+              "RelativeToolTip": "ExoMVVMContact\\View\\AddContactWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T14:28:20.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\Utils\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ExoMVVMContact\\Utils\\RelayCommand.cs",
+              "ToolTip": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\Utils\\RelayCommand.cs",
+              "RelativeToolTip": "ExoMVVMContact\\Utils\\RelayCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:24:06.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindowModelView.cs",
+              "DocumentMoniker": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\ModelView\\MainWindowModelView.cs",
+              "RelativeDocumentMoniker": "ExoMVVMContact\\ModelView\\MainWindowModelView.cs",
+              "ToolTip": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\ModelView\\MainWindowModelView.cs",
+              "RelativeToolTip": "ExoMVVMContact\\ModelView\\MainWindowModelView.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:10:18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ExoMVVMContact\\MainWindow.xaml",
+              "ToolTip": "D:\\Josua\\Natif\\WPF\\ExoMVVMContact\\ExoMVVMContact\\MainWindow.xaml",
+              "RelativeToolTip": "ExoMVVMContact\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T14:06:09.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

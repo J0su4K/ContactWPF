@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Josua\\Natif\\WPF\\Cours_CommandMVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E899AFC-A8B9-44CC-8DDF-0D61E2236EB4}|Cours_CommandMVVM\\Cours_CommandMVVM.csproj|d:\\josua\\natif\\wpf\\cours_commandmvvm\\cours_commandmvvm\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E899AFC-A8B9-44CC-8DDF-0D61E2236EB4}|Cours_CommandMVVM\\Cours_CommandMVVM.csproj|solutionrelative:cours_commandmvvm\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E899AFC-A8B9-44CC-8DDF-0D61E2236EB4}|Cours_CommandMVVM\\Cours_CommandMVVM.csproj|d:\\josua\\natif\\wpf\\cours_commandmvvm\\cours_commandmvvm\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E899AFC-A8B9-44CC-8DDF-0D61E2236EB4}|Cours_CommandMVVM\\Cours_CommandMVVM.csproj|solutionrelative:cours_commandmvvm\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E899AFC-A8B9-44CC-8DDF-0D61E2236EB4}|Cours_CommandMVVM\\Cours_CommandMVVM.csproj|d:\\josua\\natif\\wpf\\cours_commandmvvm\\cours_commandmvvm\\mvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E899AFC-A8B9-44CC-8DDF-0D61E2236EB4}|Cours_CommandMVVM\\Cours_CommandMVVM.csproj|solutionrelative:cours_commandmvvm\\mvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E899AFC-A8B9-44CC-8DDF-0D61E2236EB4}|Cours_CommandMVVM\\Cours_CommandMVVM.csproj|d:\\josua\\natif\\wpf\\cours_commandmvvm\\cours_commandmvvm\\commandeexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E899AFC-A8B9-44CC-8DDF-0D61E2236EB4}|Cours_CommandMVVM\\Cours_CommandMVVM.csproj|solutionrelative:cours_commandmvvm\\commandeexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E899AFC-A8B9-44CC-8DDF-0D61E2236EB4}|Cours_CommandMVVM\\Cours_CommandMVVM.csproj|d:\\josua\\natif\\wpf\\cours_commandmvvm\\cours_commandmvvm\\mvvm\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E899AFC-A8B9-44CC-8DDF-0D61E2236EB4}|Cours_CommandMVVM\\Cours_CommandMVVM.csproj|solutionrelative:cours_commandmvvm\\mvvm\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E899AFC-A8B9-44CC-8DDF-0D61E2236EB4}|Cours_CommandMVVM\\Cours_CommandMVVM.csproj|d:\\josua\\natif\\wpf\\cours_commandmvvm\\cours_commandmvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4E899AFC-A8B9-44CC-8DDF-0D61E2236EB4}|Cours_CommandMVVM\\Cours_CommandMVVM.csproj|solutionrelative:cours_commandmvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E899AFC-A8B9-44CC-8DDF-0D61E2236EB4}|Cours_CommandMVVM\\Cours_CommandMVVM.csproj|d:\\josua\\natif\\wpf\\cours_commandmvvm\\cours_commandmvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E899AFC-A8B9-44CC-8DDF-0D61E2236EB4}|Cours_CommandMVVM\\Cours_CommandMVVM.csproj|solutionrelative:cours_commandmvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Josua\\Natif\\WPF\\Cours_CommandMVVM\\Cours_CommandMVVM\\MVVM\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Cours_CommandMVVM\\MVVM\\RelayCommand.cs",
+              "ToolTip": "D:\\Josua\\Natif\\WPF\\Cours_CommandMVVM\\Cours_CommandMVVM\\MVVM\\RelayCommand.cs",
+              "RelativeToolTip": "Cours_CommandMVVM\\MVVM\\RelayCommand.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:34:39.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\Josua\\Natif\\WPF\\Cours_CommandMVVM\\Cours_CommandMVVM\\MVVM\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "Cours_CommandMVVM\\MVVM\\ViewModelBase.cs",
+              "ToolTip": "D:\\Josua\\Natif\\WPF\\Cours_CommandMVVM\\Cours_CommandMVVM\\MVVM\\ViewModelBase.cs",
+              "RelativeToolTip": "Cours_CommandMVVM\\MVVM\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:28:19.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\Josua\\Natif\\WPF\\Cours_CommandMVVM\\Cours_CommandMVVM\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "Cours_CommandMVVM\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\Josua\\Natif\\WPF\\Cours_CommandMVVM\\Cours_CommandMVVM\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "Cours_CommandMVVM\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:59:35.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Josua\\Natif\\WPF\\Cours_CommandMVVM\\Cours_CommandMVVM\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Cours_CommandMVVM\\Models\\Item.cs",
+              "ToolTip": "D:\\Josua\\Natif\\WPF\\Cours_CommandMVVM\\Cours_CommandMVVM\\Models\\Item.cs",
+              "RelativeToolTip": "Cours_CommandMVVM\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:55:23.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommandeExample.cs",
+              "DocumentMoniker": "D:\\Josua\\Natif\\WPF\\Cours_CommandMVVM\\Cours_CommandMVVM\\CommandeExample.cs",
+              "RelativeDocumentMoniker": "Cours_CommandMVVM\\CommandeExample.cs",
+              "ToolTip": "D:\\Josua\\Natif\\WPF\\Cours_CommandMVVM\\Cours_CommandMVVM\\CommandeExample.cs",
+              "RelativeToolTip": "Cours_CommandMVVM\\CommandeExample.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:27:20.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Josua\\Natif\\WPF\\Cours_CommandMVVM\\Cours_CommandMVVM\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Cours_CommandMVVM\\MainWindow.xaml",
+              "ToolTip": "D:\\Josua\\Natif\\WPF\\Cours_CommandMVVM\\Cours_CommandMVVM\\MainWindow.xaml",
+              "RelativeToolTip": "Cours_CommandMVVM\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T09:15:43.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Josua\\Natif\\WPF\\Cours_CommandMVVM\\Cours_CommandMVVM\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Cours_CommandMVVM\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Josua\\Natif\\WPF\\Cours_CommandMVVM\\Cours_CommandMVVM\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Cours_CommandMVVM\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:15:41.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
